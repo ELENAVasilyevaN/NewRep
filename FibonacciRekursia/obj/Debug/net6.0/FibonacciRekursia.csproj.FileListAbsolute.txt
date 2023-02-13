@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Гиг брайн\Часть 3\SISHARP\FibonacciRekursia\bin\Debug\net6.0\FibonacciRekursia.exe
+C:\Users\User\Desktop\Гиг брайн\Часть 3\SISHARP\FibonacciRekursia\bin\Debug\net6.0\FibonacciRekursia.deps.json
+C:\Users\User\Desktop\Гиг брайн\Часть 3\SISHARP\FibonacciRekursia\bin\Debug\net6.0\FibonacciRekursia.runtimeconfig.json
+C:\Users\User\Desktop\Гиг брайн\Часть 3\SISHARP\FibonacciRekursia\bin\Debug\net6.0\FibonacciRekursia.dll
+C:\Users\User\Desktop\Гиг брайн\Часть 3\SISHARP\FibonacciRekursia\bin\Debug\net6.0\FibonacciRekursia.pdb
+C:\Users\User\Desktop\Гиг брайн\Часть 3\SISHARP\FibonacciRekursia\obj\Debug\net6.0\FibonacciRekursia.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Гиг брайн\Часть 3\SISHARP\FibonacciRekursia\obj\Debug\net6.0\FibonacciRekursia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Гиг брайн\Часть 3\SISHARP\FibonacciRekursia\obj\Debug\net6.0\FibonacciRekursia.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Гиг брайн\Часть 3\SISHARP\FibonacciRekursia\obj\Debug\net6.0\FibonacciRekursia.AssemblyInfo.cs
+C:\Users\User\Desktop\Гиг брайн\Часть 3\SISHARP\FibonacciRekursia\obj\Debug\net6.0\FibonacciRekursia.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Гиг брайн\Часть 3\SISHARP\FibonacciRekursia\obj\Debug\net6.0\FibonacciRekursia.dll
+C:\Users\User\Desktop\Гиг брайн\Часть 3\SISHARP\FibonacciRekursia\obj\Debug\net6.0\refint\FibonacciRekursia.dll
+C:\Users\User\Desktop\Гиг брайн\Часть 3\SISHARP\FibonacciRekursia\obj\Debug\net6.0\FibonacciRekursia.pdb
+C:\Users\User\Desktop\Гиг брайн\Часть 3\SISHARP\FibonacciRekursia\obj\Debug\net6.0\FibonacciRekursia.genruntimeconfig.cache
+C:\Users\User\Desktop\Гиг брайн\Часть 3\SISHARP\FibonacciRekursia\obj\Debug\net6.0\ref\FibonacciRekursia.dll
