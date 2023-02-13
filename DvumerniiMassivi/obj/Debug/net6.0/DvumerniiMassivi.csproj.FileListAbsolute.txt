@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Гиг брайн\Часть 3\SISHARP\DvumerniiMassivi\bin\Debug\net6.0\DvumerniiMassivi.exe
+C:\Users\User\Desktop\Гиг брайн\Часть 3\SISHARP\DvumerniiMassivi\bin\Debug\net6.0\DvumerniiMassivi.deps.json
+C:\Users\User\Desktop\Гиг брайн\Часть 3\SISHARP\DvumerniiMassivi\bin\Debug\net6.0\DvumerniiMassivi.runtimeconfig.json
+C:\Users\User\Desktop\Гиг брайн\Часть 3\SISHARP\DvumerniiMassivi\bin\Debug\net6.0\DvumerniiMassivi.dll
+C:\Users\User\Desktop\Гиг брайн\Часть 3\SISHARP\DvumerniiMassivi\bin\Debug\net6.0\DvumerniiMassivi.pdb
+C:\Users\User\Desktop\Гиг брайн\Часть 3\SISHARP\DvumerniiMassivi\obj\Debug\net6.0\DvumerniiMassivi.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Гиг брайн\Часть 3\SISHARP\DvumerniiMassivi\obj\Debug\net6.0\DvumerniiMassivi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Гиг брайн\Часть 3\SISHARP\DvumerniiMassivi\obj\Debug\net6.0\DvumerniiMassivi.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Гиг брайн\Часть 3\SISHARP\DvumerniiMassivi\obj\Debug\net6.0\DvumerniiMassivi.AssemblyInfo.cs
+C:\Users\User\Desktop\Гиг брайн\Часть 3\SISHARP\DvumerniiMassivi\obj\Debug\net6.0\DvumerniiMassivi.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Гиг брайн\Часть 3\SISHARP\DvumerniiMassivi\obj\Debug\net6.0\DvumerniiMassivi.dll
+C:\Users\User\Desktop\Гиг брайн\Часть 3\SISHARP\DvumerniiMassivi\obj\Debug\net6.0\refint\DvumerniiMassivi.dll
+C:\Users\User\Desktop\Гиг брайн\Часть 3\SISHARP\DvumerniiMassivi\obj\Debug\net6.0\DvumerniiMassivi.pdb
+C:\Users\User\Desktop\Гиг брайн\Часть 3\SISHARP\DvumerniiMassivi\obj\Debug\net6.0\DvumerniiMassivi.genruntimeconfig.cache
+C:\Users\User\Desktop\Гиг брайн\Часть 3\SISHARP\DvumerniiMassivi\obj\Debug\net6.0\ref\DvumerniiMassivi.dll
