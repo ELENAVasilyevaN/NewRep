@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Гиг брайн\Часть 3\SISHARP\Example53\bin\Debug\net6.0\Example53.exe
+C:\Users\User\Desktop\Гиг брайн\Часть 3\SISHARP\Example53\bin\Debug\net6.0\Example53.deps.json
+C:\Users\User\Desktop\Гиг брайн\Часть 3\SISHARP\Example53\bin\Debug\net6.0\Example53.runtimeconfig.json
+C:\Users\User\Desktop\Гиг брайн\Часть 3\SISHARP\Example53\bin\Debug\net6.0\Example53.dll
+C:\Users\User\Desktop\Гиг брайн\Часть 3\SISHARP\Example53\bin\Debug\net6.0\Example53.pdb
+C:\Users\User\Desktop\Гиг брайн\Часть 3\SISHARP\Example53\obj\Debug\net6.0\Example53.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Гиг брайн\Часть 3\SISHARP\Example53\obj\Debug\net6.0\Example53.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Гиг брайн\Часть 3\SISHARP\Example53\obj\Debug\net6.0\Example53.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Гиг брайн\Часть 3\SISHARP\Example53\obj\Debug\net6.0\Example53.AssemblyInfo.cs
+C:\Users\User\Desktop\Гиг брайн\Часть 3\SISHARP\Example53\obj\Debug\net6.0\Example53.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Гиг брайн\Часть 3\SISHARP\Example53\obj\Debug\net6.0\Example53.dll
+C:\Users\User\Desktop\Гиг брайн\Часть 3\SISHARP\Example53\obj\Debug\net6.0\refint\Example53.dll
+C:\Users\User\Desktop\Гиг брайн\Часть 3\SISHARP\Example53\obj\Debug\net6.0\Example53.pdb
+C:\Users\User\Desktop\Гиг брайн\Часть 3\SISHARP\Example53\obj\Debug\net6.0\Example53.genruntimeconfig.cache
+C:\Users\User\Desktop\Гиг брайн\Часть 3\SISHARP\Example53\obj\Debug\net6.0\ref\Example53.dll
